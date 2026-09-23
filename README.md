@@ -6,10 +6,11 @@
 NeighborLink lets users list objects they are not using and lend them to nearby neighbours. The platform handles the full rental lifecycle: request, secure payment with Stripe deposit hold, numeric-code-validated handover and return, dispute resolution, and a points-based reward system for lenders.
 
 Live version! -> https://neighborlink-frontend.onrender.com/
-⚠️ Note about the Live Demo: This project uses the free tiers of Render and Supabase. 
+> ⚠️ Note about the Live Demo: This project uses the free tiers of Render and Supabase. 
 Supabase automatically pauses the database after 7 days of inactivity. 
 If the live link is not working, the database might be asleep.
 Please follow the Local Setup instructions to run it on your machine!
+
 
 [![Backend CI](https://github.com/isw2-unileon/NeighborLink/actions/workflows/backend.yml/badge.svg)](https://github.com/isw2-unileon/NeighborLink/actions/workflows/backend.yml)
 [![Frontend CI](https://github.com/isw2-unileon/NeighborLink/actions/workflows/frontend.yml/badge.svg)](https://github.com/isw2-unileon/NeighborLink/actions/workflows/frontend.yml)
